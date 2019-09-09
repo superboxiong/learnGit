@@ -5,3 +5,6 @@ git is a good system¡£
 add 
 add
 add
+test
+test
+test
